@@ -1,4 +1,4 @@
-# AWS_Microservices_with_Python_and_FastAPI
+# Microservices_with_Python_and_FastAPI
 Test
 
 1. Create a Python Virtual Environment `python3 -m venv ~/.venv` or `virtualenv ~/.venv`
