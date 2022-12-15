@@ -1,0 +1,27 @@
+name: Python app test with github actions
+on: [push]
+
+jobs:
+  build:
+    
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v1
+      with:
+        python-verison: 3.10
+    - name: Install dependices
+      run: |
+        make install
+    - name: Lint with pylint
+      run: |
+        #make lint
+    - name: Test with pytest
+      run: |
+        #make test
+    - name: Format code
+      run: |
+        #make format
+    

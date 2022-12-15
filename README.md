@@ -1,3 +1,6 @@
+[![Python app test with github actions](https://github.com/gokhaneraslan/AWS_Microservices_with_Python_and_FastAPI/actions/workflows/devops.yml/badge.svg)](https://github.com/gokhaneraslan/AWS_Microservices_with_Python_and_FastAPI/actions/workflows/devops.yml)
+
+
 # Microservices_with_Python_and_FastAPI
 Test
 
