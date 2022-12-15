@@ -9,4 +9,4 @@ Test
 3. Populate `Makefile`
 4. Setup Continuous Integration, i.e. check code for issues like lint errors
 
-[![Python app test with github actions](https://github.com/gokhaneraslan/AWS_Microservices_with_Python_and_FastAPI/actions/workflows/devops.yml/badge.svg)](https://github.com/gokhaneraslan/AWS_Microservices_with_Python_and_FastAPI/actions/workflows/devops.yml)
+[![lint-failure](https://github.com/gokhaneraslan/AWS_Microservices_with_Python_and_FastAPI/actions/workflows/devops.yml/badge.svg)](https://github.com/gokhaneraslan/AWS_Microservices_with_Python_and_FastAPI/actions/workflows/devops.yml)
